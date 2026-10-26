@@ -4,6 +4,8 @@
 
 Este proyecto sigue una metodología guiada por pruebas (TDD): irás implementando las clases y métodos paso a paso para hacer pasar la suite de tests (`pytest`), y finalmente programarás algoritmos de automatización para resolver el juego en la terminal.
 
+NOTA: Esta kata está resuelta, si en un futuro va a utilizarse para alguna actividad del Aula, sólo habría que eliminar las funcionalidades que se deseen e indicar el funcionamiento de las clases y funciones.
+
 ---
 
 ## 🛠️ Requisitos
